@@ -1,0 +1,15 @@
+[submodule "libsigrok"]
+	path = libsigrok
+	url = https://github.com/ela-project/libsigrok.git
+[submodule "pulseview"]
+	path = pulseview
+	url = git://sigrok.org/pulseview
+[submodule "libsigrokdecode"]
+	path = libsigrokdecode
+	url = git://sigrok.org/libsigrokdecode
+[submodule "sigrok-util"]
+	path = sigrok-util
+	url = git://sigrok.org/sigrok-util
+[submodule "libserialport"]
+	path = libserialport
+	url = https://github.com/sigrokproject/libserialport.git
